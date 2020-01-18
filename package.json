@@ -1,0 +1,23 @@
+{
+  "name": "cypressLab",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danilofeijo/cypressLab.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danilofeijo/cypressLab/issues"
+  },
+  "homepage": "https://github.com/danilofeijo/cypressLab#readme",
+  "devDependencies": {
+    "cypress": "^3.8.2"
+  }
+}
