@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "cypress": "cypress open",
+    "test": "cypress run"
   },
   "repository": {
     "type": "git",
@@ -18,6 +19,7 @@
   },
   "homepage": "https://github.com/danilofeijo/cypressLab#readme",
   "devDependencies": {
+    "@applitools/eyes-cypress": "^3.9.5",
     "cypress": "^3.8.2"
   }
 }
